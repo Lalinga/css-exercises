@@ -1,0 +1,19 @@
+.alert-text,
+.alert-tex {
+    background-color:rgb(225, 155, 168) ;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.alert-tex {
+    font-size: 24px;
+}
+
+#title {
+    color: rgb(50, 50, 202);
+    font-size: 32px;
+}
+
+#titl {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
